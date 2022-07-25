@@ -1,0 +1,84 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.box-1{
+    background-color:rgba(153, 224, 201, 0.514);
+    width: 50%;
+    /* height: 50%; */
+    border: 5px solid rgba(128, 128, 128, 0.274) ;
+    padding-top: 50px;
+}
+
+.box-2{
+    background-color:rgb(196, 196, 181);
+    width: 50%;
+    height: 50%;
+    border: 5px solid rgba(128, 128, 128, 0.274) ;
+    padding-bottom: 50px;
+}
+.head{
+    background-color: rgb(38, 7, 59);
+    color: white;
+    width: auto;
+    margin-top: 20px;
+    padding: 10px;
+}
+span{
+    padding: 5px;
+}
+
+h1{
+    text-align: center;
+}
+h4{
+    color: blue;
+    text-align: center;
+}
+.reg{
+    background-color:rgb(202, 223, 218);
+    border-left: 10px solid rgb(26, 148, 117) ;
+    padding: 10px;
+}
+
+/* table */
+.fname{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.lname{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.age{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.designation{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.pl{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.email{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.password{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.file{
+    background-color: rgb(248,248,131);
+    width: auto;
+}
+.button{
+    width: auto;
+    background-color:rgb(39, 72, 180);
+    font-weight: 700;
+    border-radius: 5px;
+}
+
+
